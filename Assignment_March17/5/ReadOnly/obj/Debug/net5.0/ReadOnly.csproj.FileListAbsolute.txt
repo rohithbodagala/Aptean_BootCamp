@@ -1,0 +1,16 @@
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ReadOnly.csprojAssemblyReference.cache
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ReadOnly.AssemblyInfoInputs.cache
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ReadOnly.AssemblyInfo.cs
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\source\repos\ReadOnly\bin\Debug\net5.0\ReadOnly.exe
+C:\Users\rbodagala\source\repos\ReadOnly\bin\Debug\net5.0\ReadOnly.deps.json
+C:\Users\rbodagala\source\repos\ReadOnly\bin\Debug\net5.0\ReadOnly.runtimeconfig.json
+C:\Users\rbodagala\source\repos\ReadOnly\bin\Debug\net5.0\ReadOnly.runtimeconfig.dev.json
+C:\Users\rbodagala\source\repos\ReadOnly\bin\Debug\net5.0\ReadOnly.dll
+C:\Users\rbodagala\source\repos\ReadOnly\bin\Debug\net5.0\ref\ReadOnly.dll
+C:\Users\rbodagala\source\repos\ReadOnly\bin\Debug\net5.0\ReadOnly.pdb
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ReadOnly.dll
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ref\ReadOnly.dll
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ReadOnly.pdb
+C:\Users\rbodagala\source\repos\ReadOnly\obj\Debug\net5.0\ReadOnly.genruntimeconfig.cache

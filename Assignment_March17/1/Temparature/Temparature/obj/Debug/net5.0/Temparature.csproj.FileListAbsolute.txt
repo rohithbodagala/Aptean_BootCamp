@@ -1,0 +1,16 @@
+C:\Users\rbodagala\source\repos\Temparature\Temparature\bin\Debug\net5.0\Temparature.exe
+C:\Users\rbodagala\source\repos\Temparature\Temparature\bin\Debug\net5.0\Temparature.deps.json
+C:\Users\rbodagala\source\repos\Temparature\Temparature\bin\Debug\net5.0\Temparature.runtimeconfig.json
+C:\Users\rbodagala\source\repos\Temparature\Temparature\bin\Debug\net5.0\Temparature.runtimeconfig.dev.json
+C:\Users\rbodagala\source\repos\Temparature\Temparature\bin\Debug\net5.0\Temparature.dll
+C:\Users\rbodagala\source\repos\Temparature\Temparature\bin\Debug\net5.0\ref\Temparature.dll
+C:\Users\rbodagala\source\repos\Temparature\Temparature\bin\Debug\net5.0\Temparature.pdb
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\Temparature.csprojAssemblyReference.cache
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\Temparature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\Temparature.AssemblyInfoInputs.cache
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\Temparature.AssemblyInfo.cs
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\Temparature.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\Temparature.dll
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\ref\Temparature.dll
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\Temparature.pdb
+C:\Users\rbodagala\source\repos\Temparature\Temparature\obj\Debug\net5.0\Temparature.genruntimeconfig.cache

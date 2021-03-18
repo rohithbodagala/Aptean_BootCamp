@@ -1,0 +1,15 @@
+C:\Users\rbodagala\source\repos\Login\bin\Debug\net5.0\Login.exe
+C:\Users\rbodagala\source\repos\Login\bin\Debug\net5.0\Login.deps.json
+C:\Users\rbodagala\source\repos\Login\bin\Debug\net5.0\Login.runtimeconfig.json
+C:\Users\rbodagala\source\repos\Login\bin\Debug\net5.0\Login.runtimeconfig.dev.json
+C:\Users\rbodagala\source\repos\Login\bin\Debug\net5.0\Login.dll
+C:\Users\rbodagala\source\repos\Login\bin\Debug\net5.0\ref\Login.dll
+C:\Users\rbodagala\source\repos\Login\bin\Debug\net5.0\Login.pdb
+C:\Users\rbodagala\source\repos\Login\obj\Debug\net5.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\source\repos\Login\obj\Debug\net5.0\Login.AssemblyInfoInputs.cache
+C:\Users\rbodagala\source\repos\Login\obj\Debug\net5.0\Login.AssemblyInfo.cs
+C:\Users\rbodagala\source\repos\Login\obj\Debug\net5.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\source\repos\Login\obj\Debug\net5.0\Login.dll
+C:\Users\rbodagala\source\repos\Login\obj\Debug\net5.0\ref\Login.dll
+C:\Users\rbodagala\source\repos\Login\obj\Debug\net5.0\Login.pdb
+C:\Users\rbodagala\source\repos\Login\obj\Debug\net5.0\Login.genruntimeconfig.cache

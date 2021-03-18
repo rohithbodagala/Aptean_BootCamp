@@ -1,0 +1,15 @@
+C:\Users\rbodagala\source\repos\ParametersDemo\obj\Debug\net5.0\ParametersDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\source\repos\ParametersDemo\obj\Debug\net5.0\ParametersDemo.AssemblyInfoInputs.cache
+C:\Users\rbodagala\source\repos\ParametersDemo\obj\Debug\net5.0\ParametersDemo.AssemblyInfo.cs
+C:\Users\rbodagala\source\repos\ParametersDemo\obj\Debug\net5.0\ParametersDemo.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\source\repos\ParametersDemo\bin\Debug\net5.0\ParametersDemo.exe
+C:\Users\rbodagala\source\repos\ParametersDemo\bin\Debug\net5.0\ParametersDemo.deps.json
+C:\Users\rbodagala\source\repos\ParametersDemo\bin\Debug\net5.0\ParametersDemo.runtimeconfig.json
+C:\Users\rbodagala\source\repos\ParametersDemo\bin\Debug\net5.0\ParametersDemo.runtimeconfig.dev.json
+C:\Users\rbodagala\source\repos\ParametersDemo\bin\Debug\net5.0\ParametersDemo.dll
+C:\Users\rbodagala\source\repos\ParametersDemo\bin\Debug\net5.0\ref\ParametersDemo.dll
+C:\Users\rbodagala\source\repos\ParametersDemo\bin\Debug\net5.0\ParametersDemo.pdb
+C:\Users\rbodagala\source\repos\ParametersDemo\obj\Debug\net5.0\ParametersDemo.dll
+C:\Users\rbodagala\source\repos\ParametersDemo\obj\Debug\net5.0\ref\ParametersDemo.dll
+C:\Users\rbodagala\source\repos\ParametersDemo\obj\Debug\net5.0\ParametersDemo.pdb
+C:\Users\rbodagala\source\repos\ParametersDemo\obj\Debug\net5.0\ParametersDemo.genruntimeconfig.cache
