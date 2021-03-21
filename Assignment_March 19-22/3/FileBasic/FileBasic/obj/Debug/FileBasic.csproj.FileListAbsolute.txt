@@ -1,0 +1,13 @@
+C:\Users\psingh1\source\repos\FileBasic\FileBasic\bin\Debug\FileBasic.exe.config
+C:\Users\psingh1\source\repos\FileBasic\FileBasic\bin\Debug\FileBasic.exe
+C:\Users\psingh1\source\repos\FileBasic\FileBasic\bin\Debug\FileBasic.pdb
+C:\Users\psingh1\source\repos\FileBasic\FileBasic\obj\Debug\FileBasic.exe
+C:\Users\psingh1\source\repos\FileBasic\FileBasic\obj\Debug\FileBasic.pdb
+C:\Users\psingh1\source\repos\FileBasic\FileBasic\obj\Debug\FileBasic.csprojAssemblyReference.cache
+C:\Users\rbodagala\source\repos\FileBasic\FileBasic\bin\Debug\FileBasic.exe.config
+C:\Users\rbodagala\source\repos\FileBasic\FileBasic\bin\Debug\FileBasic.exe
+C:\Users\rbodagala\source\repos\FileBasic\FileBasic\bin\Debug\FileBasic.pdb
+C:\Users\rbodagala\source\repos\FileBasic\FileBasic\obj\Debug\FileBasic.csprojAssemblyReference.cache
+C:\Users\rbodagala\source\repos\FileBasic\FileBasic\obj\Debug\FileBasic.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\source\repos\FileBasic\FileBasic\obj\Debug\FileBasic.exe
+C:\Users\rbodagala\source\repos\FileBasic\FileBasic\obj\Debug\FileBasic.pdb
