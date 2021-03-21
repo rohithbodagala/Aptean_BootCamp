@@ -1,0 +1,13 @@
+C:\Users\psingh1\source\repos\ColorConfiger\ColorConfiger\bin\Debug\ColorConfiger.exe.config
+C:\Users\psingh1\source\repos\ColorConfiger\ColorConfiger\bin\Debug\ColorConfiger.exe
+C:\Users\psingh1\source\repos\ColorConfiger\ColorConfiger\bin\Debug\ColorConfiger.pdb
+C:\Users\psingh1\source\repos\ColorConfiger\ColorConfiger\obj\Debug\ColorConfiger.csprojAssemblyReference.cache
+C:\Users\psingh1\source\repos\ColorConfiger\ColorConfiger\obj\Debug\ColorConfiger.exe
+C:\Users\psingh1\source\repos\ColorConfiger\ColorConfiger\obj\Debug\ColorConfiger.pdb
+C:\Users\rbodagala\source\repos\ColorConfiger\ColorConfiger\bin\Debug\ColorConfiger.exe.config
+C:\Users\rbodagala\source\repos\ColorConfiger\ColorConfiger\bin\Debug\ColorConfiger.exe
+C:\Users\rbodagala\source\repos\ColorConfiger\ColorConfiger\bin\Debug\ColorConfiger.pdb
+C:\Users\rbodagala\source\repos\ColorConfiger\ColorConfiger\obj\Debug\ColorConfiger.csprojAssemblyReference.cache
+C:\Users\rbodagala\source\repos\ColorConfiger\ColorConfiger\obj\Debug\ColorConfiger.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\source\repos\ColorConfiger\ColorConfiger\obj\Debug\ColorConfiger.exe
+C:\Users\rbodagala\source\repos\ColorConfiger\ColorConfiger\obj\Debug\ColorConfiger.pdb
