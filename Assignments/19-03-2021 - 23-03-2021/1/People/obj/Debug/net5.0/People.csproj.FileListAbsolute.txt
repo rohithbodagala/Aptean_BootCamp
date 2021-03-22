@@ -1,0 +1,16 @@
+C:\Users\rbodagala\source\repos\People\bin\Debug\net5.0\People.exe
+C:\Users\rbodagala\source\repos\People\bin\Debug\net5.0\People.deps.json
+C:\Users\rbodagala\source\repos\People\bin\Debug\net5.0\People.runtimeconfig.json
+C:\Users\rbodagala\source\repos\People\bin\Debug\net5.0\People.runtimeconfig.dev.json
+C:\Users\rbodagala\source\repos\People\bin\Debug\net5.0\People.dll
+C:\Users\rbodagala\source\repos\People\bin\Debug\net5.0\ref\People.dll
+C:\Users\rbodagala\source\repos\People\bin\Debug\net5.0\People.pdb
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\People.csprojAssemblyReference.cache
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\People.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\People.AssemblyInfoInputs.cache
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\People.AssemblyInfo.cs
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\People.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\People.dll
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\ref\People.dll
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\People.pdb
+C:\Users\rbodagala\source\repos\People\obj\Debug\net5.0\People.genruntimeconfig.cache
