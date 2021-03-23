@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\Defence.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\Defence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\Defence.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\Defence.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\Defence.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\bin\Debug\net5.0\Defence.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\bin\Debug\net5.0\Defence.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\bin\Debug\net5.0\Defence.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\bin\Debug\net5.0\Defence.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\bin\Debug\net5.0\Defence.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\bin\Debug\net5.0\ref\Defence.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\bin\Debug\net5.0\Defence.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\Defence.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\ref\Defence.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\Defence.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\19-03-2021 - 23-03-2021\3\Defence\obj\Debug\net5.0\Defence.genruntimeconfig.cache
