@@ -1,0 +1,26 @@
+C:\Users\sumesh\source\repos\aggregate\bin\Debug\netcoreapp3.1\aggregate.exe
+C:\Users\sumesh\source\repos\aggregate\bin\Debug\netcoreapp3.1\aggregate.deps.json
+C:\Users\sumesh\source\repos\aggregate\bin\Debug\netcoreapp3.1\aggregate.runtimeconfig.json
+C:\Users\sumesh\source\repos\aggregate\bin\Debug\netcoreapp3.1\aggregate.runtimeconfig.dev.json
+C:\Users\sumesh\source\repos\aggregate\bin\Debug\netcoreapp3.1\aggregate.dll
+C:\Users\sumesh\source\repos\aggregate\bin\Debug\netcoreapp3.1\aggregate.pdb
+C:\Users\sumesh\source\repos\aggregate\obj\Debug\netcoreapp3.1\aggregate.AssemblyInfoInputs.cache
+C:\Users\sumesh\source\repos\aggregate\obj\Debug\netcoreapp3.1\aggregate.AssemblyInfo.cs
+C:\Users\sumesh\source\repos\aggregate\obj\Debug\netcoreapp3.1\aggregate.csproj.CoreCompileInputs.cache
+C:\Users\sumesh\source\repos\aggregate\obj\Debug\netcoreapp3.1\aggregate.dll
+C:\Users\sumesh\source\repos\aggregate\obj\Debug\netcoreapp3.1\aggregate.pdb
+C:\Users\sumesh\source\repos\aggregate\obj\Debug\netcoreapp3.1\aggregate.genruntimeconfig.cache
+C:\Users\sumesh\source\repos\aggregate\obj\Debug\netcoreapp3.1\aggregate.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\bin\Debug\netcoreapp3.1\aggregate.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\bin\Debug\netcoreapp3.1\aggregate.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\bin\Debug\netcoreapp3.1\aggregate.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\bin\Debug\netcoreapp3.1\aggregate.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\bin\Debug\netcoreapp3.1\aggregate.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\bin\Debug\netcoreapp3.1\aggregate.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\obj\Debug\netcoreapp3.1\aggregate.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\obj\Debug\netcoreapp3.1\aggregate.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\obj\Debug\netcoreapp3.1\aggregate.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\obj\Debug\netcoreapp3.1\aggregate.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\obj\Debug\netcoreapp3.1\aggregate.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\obj\Debug\netcoreapp3.1\aggregate.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\4\aggregate\obj\Debug\netcoreapp3.1\aggregate.genruntimeconfig.cache

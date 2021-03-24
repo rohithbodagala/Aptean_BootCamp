@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\bin\Debug\net5.0\CRMProducts.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\bin\Debug\net5.0\CRMProducts.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\bin\Debug\net5.0\CRMProducts.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\bin\Debug\net5.0\CRMProducts.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\bin\Debug\net5.0\CRMProducts.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\bin\Debug\net5.0\ref\CRMProducts.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\bin\Debug\net5.0\CRMProducts.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\CRMProducts.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\CRMProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\CRMProducts.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\CRMProducts.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\CRMProducts.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\CRMProducts.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\ref\CRMProducts.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\CRMProducts.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\1\CRMProducts\obj\Debug\net5.0\CRMProducts.genruntimeconfig.cache

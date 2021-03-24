@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\bin\Debug\net5.0\SetOperations.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\bin\Debug\net5.0\SetOperations.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\bin\Debug\net5.0\SetOperations.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\bin\Debug\net5.0\SetOperations.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\bin\Debug\net5.0\SetOperations.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\bin\Debug\net5.0\ref\SetOperations.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\bin\Debug\net5.0\SetOperations.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\SetOperations.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\SetOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\SetOperations.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\SetOperations.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\SetOperations.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\SetOperations.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\ref\SetOperations.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\SetOperations.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\5\SetOperations\obj\Debug\net5.0\SetOperations.genruntimeconfig.cache

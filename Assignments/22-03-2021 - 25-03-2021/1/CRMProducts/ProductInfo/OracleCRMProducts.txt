@@ -1,0 +1,3 @@
+Oracle,CRM,O-CRM,480
+Oracle,CRM,CLoud-CRM,550
+Oracle,CRM,On-Premise-CRM,1500

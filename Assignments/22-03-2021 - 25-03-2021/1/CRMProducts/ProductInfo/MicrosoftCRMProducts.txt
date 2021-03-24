@@ -1,0 +1,5 @@
+Microsoft,CRM,Navision,250
+Microsoft,CRM,Axapta,750
+Microsoft,CRM,Dynamic AX,1250
+Microsoft,CRM,Dynamix 365,1800
+Microsoft,CRM,NetSuite,1400

@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\bin\Debug\net5.0\GroupEmployees.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\bin\Debug\net5.0\GroupEmployees.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\bin\Debug\net5.0\GroupEmployees.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\bin\Debug\net5.0\GroupEmployees.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\bin\Debug\net5.0\GroupEmployees.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\bin\Debug\net5.0\ref\GroupEmployees.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\bin\Debug\net5.0\GroupEmployees.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\GroupEmployees.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\GroupEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\GroupEmployees.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\GroupEmployees.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\GroupEmployees.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\GroupEmployees.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\ref\GroupEmployees.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\GroupEmployees.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-03-2021 - 25-03-2021\2\GroupEmployees\obj\Debug\net5.0\GroupEmployees.genruntimeconfig.cache

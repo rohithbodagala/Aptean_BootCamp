@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMProducts", "CRMProducts.csproj", "{88EFA624-358F-4EC5-B66F-F64FA0CBE390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EFA624-358F-4EC5-B66F-F64FA0CBE390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EFA624-358F-4EC5-B66F-F64FA0CBE390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EFA624-358F-4EC5-B66F-F64FA0CBE390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EFA624-358F-4EC5-B66F-F64FA0CBE390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {567165A3-3515-404C-94C6-AE387F14C55F}
+	EndGlobalSection
+EndGlobal
