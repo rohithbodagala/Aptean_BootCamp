@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\bin\Debug\net5.0\PersonDNA.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\bin\Debug\net5.0\PersonDNA.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\bin\Debug\net5.0\PersonDNA.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\bin\Debug\net5.0\PersonDNA.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\bin\Debug\net5.0\PersonDNA.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\bin\Debug\net5.0\ref\PersonDNA.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\bin\Debug\net5.0\PersonDNA.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\PersonDNA.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\PersonDNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\PersonDNA.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\PersonDNA.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\PersonDNA.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\PersonDNA.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\ref\PersonDNA.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\PersonDNA.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\26-03-2021 - 29-03-2021\1\PersonDNA\obj\Debug\net5.0\PersonDNA.genruntimeconfig.cache
