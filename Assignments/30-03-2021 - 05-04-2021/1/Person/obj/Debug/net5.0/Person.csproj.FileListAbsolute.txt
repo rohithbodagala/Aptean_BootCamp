@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\Person.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\bin\Debug\net5.0\Person.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\bin\Debug\net5.0\Person.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\bin\Debug\net5.0\Person.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\bin\Debug\net5.0\Person.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\bin\Debug\net5.0\ref\Person.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\Person.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\ref\Person.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\1\Person\obj\Debug\net5.0\Person.genruntimeconfig.cache

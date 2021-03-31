@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\bin\Debug\net5.0\Table.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\bin\Debug\net5.0\Table.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\bin\Debug\net5.0\Table.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\bin\Debug\net5.0\Table.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\bin\Debug\net5.0\Table.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\bin\Debug\net5.0\ref\Table.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\bin\Debug\net5.0\Table.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\Table.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\Table.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\Table.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\Table.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\Table.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\ref\Table.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\Table.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5\Table\obj\Debug\net5.0\Table.genruntimeconfig.cache

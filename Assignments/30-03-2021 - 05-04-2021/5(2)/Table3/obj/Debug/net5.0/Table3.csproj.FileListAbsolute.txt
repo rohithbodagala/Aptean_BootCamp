@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\bin\Debug\net5.0\Table3.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\bin\Debug\net5.0\Table3.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\bin\Debug\net5.0\Table3.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\bin\Debug\net5.0\Table3.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\bin\Debug\net5.0\Table3.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\bin\Debug\net5.0\ref\Table3.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\bin\Debug\net5.0\Table3.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\Table3.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\Table3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\Table3.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\Table3.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\Table3.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\Table3.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\ref\Table3.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\Table3.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\5(2)\Table3\obj\Debug\net5.0\Table3.genruntimeconfig.cache

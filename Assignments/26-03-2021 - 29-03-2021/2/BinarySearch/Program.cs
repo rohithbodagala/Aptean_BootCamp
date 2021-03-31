@@ -12,6 +12,8 @@ namespace BinarySearch
             Console.WriteLine("Enter the number of items:");
             var n = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter the items to add to the list:");
+            Ty
+            var obj;
             switch (type)
             {
                 case "int":

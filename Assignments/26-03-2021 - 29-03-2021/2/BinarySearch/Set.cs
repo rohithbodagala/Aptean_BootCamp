@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +22,11 @@ namespace BinarySearch
                 Console.WriteLine($"{key} is not present in the list");
 
 
+        }
+        public static T GetTfromString<T>(string mystring)
+        {
+            var foo = TypeDescriptor.GetConverter(typeof(T));
+            return (T)(foo.ConvertFromInvariantString(mystring));
         }
     }
 }

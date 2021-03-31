@@ -1,0 +1,26 @@
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.exe
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.deps.json
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.runtimeconfig.json
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.runtimeconfig.dev.json
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.csprojAssemblyReference.cache
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.AssemblyInfoInputs.cache
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.AssemblyInfo.cs
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\smanjunatha\source\repos\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.genruntimeconfig.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\30-03-2021 - 05-04-2021\4\Catalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.genruntimeconfig.cache
