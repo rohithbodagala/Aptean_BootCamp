@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\bin\Debug\net5.0\LibraryManagement.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\bin\Debug\net5.0\LibraryManagement.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\bin\Debug\net5.0\LibraryManagement.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\bin\Debug\net5.0\LibraryManagement.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\bin\Debug\net5.0\LibraryManagement.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\bin\Debug\net5.0\ref\LibraryManagement.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\bin\Debug\net5.0\LibraryManagement.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\LibraryManagement.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\ref\LibraryManagement.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\LibraryManagement.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\3\LibraryManagement\obj\Debug\net5.0\LibraryManagement.genruntimeconfig.cache

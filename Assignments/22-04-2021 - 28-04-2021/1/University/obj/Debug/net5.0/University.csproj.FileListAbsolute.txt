@@ -1,0 +1,16 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\bin\Debug\net5.0\University.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\bin\Debug\net5.0\University.deps.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\bin\Debug\net5.0\University.runtimeconfig.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\bin\Debug\net5.0\University.runtimeconfig.dev.json
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\bin\Debug\net5.0\University.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\bin\Debug\net5.0\ref\University.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\bin\Debug\net5.0\University.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\University.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\University.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\University.AssemblyInfoInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\University.AssemblyInfo.cs
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\University.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\University.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\ref\University.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\University.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\1\University\obj\Debug\net5.0\University.genruntimeconfig.cache

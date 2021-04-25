@@ -1,0 +1,19 @@
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="limit.js">
+        </script>
+      <title>Limit character input in the textarea including count</title>
+    <style type="text/css">
+    textarea {
+      display:block;
+      margin:1em 0;
+    }  
+    </style>  
+    </head>
+    <body>
+    <form>
+    <label>Maximum 15 characters</label>
+    <textarea id="textarea" maxlength="15"></textarea>
+      <span id="rchars">15</span> Character(s) Remaining
+    </form>
+    </body>
