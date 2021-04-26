@@ -1,0 +1,11 @@
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\rbodagala\Desktop\Aptean_BootCamp\Assignments\22-04-2021 - 28-04-2021\6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
